@@ -3,6 +3,10 @@
 
 A distributed file-format fuzzer built with OpenMPI
 
+Screenshot
+=================
+![distfuzz screenshot](https://i.imgur.com/HleYr4S.png)
+
 Setup
 =================
 
